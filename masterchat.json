@@ -1,0 +1,30 @@
+{
+  "ads": {
+    "id_app": "",
+    "flury_id":"",
+    "banner_setting": "",
+    "inter_setting": "",
+    "banner_main": "",
+    "inter_main": "",
+    "onlyAdmod": true,
+    "onlyFB": false
+  }, 
+  "app_exists": {
+    "id": "",
+    "is_exists": true,
+    "is_show_more": false,
+    "isLoading":false,
+    "isShowAds":false
+  },
+  "apps": [
+    {
+      "id": "",
+      "icon": "",
+      "name": "",
+      "des": "",
+      "s1": "",
+      "s2": "",
+      "s3": ""
+    }
+  ]
+}
