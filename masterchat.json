@@ -10,8 +10,8 @@
     "onlyFB": false
   }, 
   "app_exists": {
-    "id": "",
-    "is_exists": true,
+    "id": "com.chat.master.chatmaster.chat.masterhelper.master",
+    "is_exists": false,
     "is_show_more": false,
     "isLoading":false,
     "isShowAds":true
